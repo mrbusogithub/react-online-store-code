@@ -1,0 +1,29 @@
+/* Custom CSS class to define a background color */
+.bg-myKhaki {
+    background-color: #92B1B6; /* MyKhaki color */
+}
+
+/* Styling for the navigation container */
+.container-fluid nav {
+    color: white; /* To set text color to white */
+}
+
+/* Styling for the navigation links */
+.nav a {
+    text-decoration: none; /* To remove underlines from links */
+    padding: 10px; /* Add padding around the links */
+    color: darkblue; /* Set text color for links to whitesmoke */
+    font-size: 20px;
+    
+}
+.nav a:hover {
+    cursor: pointer;
+    color: wheat;
+}
+.nav a:active {
+    text-decoration: underline;
+}
+.logo span {
+    color: white;
+}
+

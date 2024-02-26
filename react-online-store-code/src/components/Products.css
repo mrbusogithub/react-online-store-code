@@ -1,0 +1,12 @@
+/* Styling for the overall product section */
+.card:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+  }
+
+/* Styling for the total price display */
+.totalPrice {
+    text-align: end; /* Align the text to the end of its container (right) */
+    color: darkslategray;
+}
